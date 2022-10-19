@@ -1,0 +1,183 @@
+
+
+body{
+    margin: 0px;
+}
+
+#topbanner{
+    height: 100px;
+    width: 1920px;
+    background-color: rgb(37, 63, 255);
+    background-image: url(../bluecool.png);
+    background-size: 160px;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    
+}
+
+#logo{
+    height: 100px;
+}
+
+.left{
+    width: 50%;
+    float: left;
+    text-align: right;
+    /* background-color: blue; */
+    font-size: 20px;
+    line-height: 2;
+}
+
+.right{
+    font-size: 20px;
+    width: 50%;
+    /* background-color: aqua; */
+    float: right;
+    line-height: 2;
+}
+
+
+p{
+    padding: 0px;
+    padding-right: 20px;
+    margin: 0px;
+}
+
+h2{
+    line-height: 60%;
+    color:rgb(37, 63, 255);
+    font-size: 35px;
+}
+h3{
+    line-height: 60%;
+    color: rgb(1, 152, 253);
+    font-size: 25px;
+}
+.clearfix{
+    clear: both;
+}
+
+.dot{
+    color: orange;
+}
+
+#passwordfill{
+    width: 50%;
+    float: left;
+    line-height: 1.9;
+    text-align: right;
+    /* background-color: rgb(255, 149, 0); */
+    font-size: 20px;
+}
+
+#passwordform{
+    font-size: 20px;
+    line-height: 1.9;
+    width: 50%;
+    /* background-color: rgb(221, 0, 255); */
+    float: right;
+}
+
+#savedata{
+    /* background-color: beige; */
+    margin-left: 400px;
+    text-align: left;
+}
+
+#yourdata{
+    margin-left: 400px;
+    text-align: left;
+}
+
+#belguim{
+    color: rgb(1, 152, 253);
+    font-weight: bold;
+}
+
+.questionmark{
+    width: 20px;
+}
+
+#submitbutton{
+    height: 30px;
+    width: 150px;
+    font-size: 20px;
+    transform: translateY(15%);
+    float: right;
+    color: white;
+    margin-right: 10px;
+    background-color: rgb(55, 231, 1);
+    
+}
+
+#sunmitfield{
+    height: 40px;
+    width: 500px;
+    float: right;
+    margin-right: 500px;
+    background-color: lightgrey;
+}
+
+#emptyspace{
+    height: 100px;
+    width: 1920px;
+}
+
+#footerleft{
+    height: 300px;
+    width: 50%;
+    background-color:rgb(37, 63, 255);
+    float: left;
+}
+
+#footerright{
+    height: 300px;
+    width: 50%;
+    background-color:rgb(37, 63, 255);
+    float: right;
+}
+
+#footerleft > p{
+    margin-left: 45%;
+    color: white;
+}
+
+#footerleft > h2{
+    margin-left: 45%;
+    line-height: 5%;
+    color: white;
+}
+
+#footerleft > h3{
+    color: white;
+    line-height: 5%;
+    margin-left: 45%;
+}
+
+#footerright > p{
+    color:white;
+}
+
+#footerright > h2{
+    color: white;
+    line-height: 5%;
+}
+
+#footerright > h3{
+    color: white;
+    line-height: 5%;
+}
+
+.check{
+    height: 15px;
+}
+
+.phone{
+    margin-top: -13px;
+    height: 50px;
+    float: left;
+}
+
+.bold{
+    font-weight: bold;
+}
